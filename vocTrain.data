@@ -1,0 +1,5 @@
+classes= 20
+train  = /content/darknet/Voc2007TrainYoloV3.txt
+valid  = /content/darknet/Voc2007ValYoloV3.txt
+names = data/voc.names
+backup = backup
